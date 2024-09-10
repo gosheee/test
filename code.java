@@ -7,11 +7,11 @@ public class code {
 
 
     public int getDds() {
-        return third;
+        return timesss;
     }
 
     public void setDd(int dd) {
-        this.third = dd;
+        this.timesss = dd;
     }
 
     public int getAgesssd() {
