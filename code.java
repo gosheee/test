@@ -4,6 +4,7 @@ public class code {
     private String name;
     private int sex;
 
+
     private int eee;
 
     public int getDd() {
@@ -12,6 +13,7 @@ public class code {
 
     public void setDd(int dd) {
         this.eee = dd;
+
     }
 
     public int getAge() {
