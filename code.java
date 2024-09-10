@@ -4,15 +4,15 @@ public class code {
     private String name;
     private int sex;
 
-    private int myfinal;
+    private int not;
 
 
     public int getDds() {
-        return myfinal;
+        return not;
     }
 
     public void setDd(int dd) {
-        this.myfinal = dd;
+        this.not = dd;
 
     }
 
