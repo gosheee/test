@@ -6,8 +6,6 @@ public class code {
     private int timesss;
 
 
-    private int third;
-
     public int getDds() {
         return third;
     }
