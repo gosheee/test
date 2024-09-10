@@ -16,7 +16,7 @@ public class code {
 
     }
 
-    public int getAge() {
+    public int getAges() {
         return age;
     }
 
