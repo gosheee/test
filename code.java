@@ -4,14 +4,14 @@ public class code {
     private String name;
     private int sex;
 
-    private int ee;
+    private int eee;
 
     public int getDd() {
-        return ee;
+        return eee;
     }
 
     public void setDd(int dd) {
-        this.ee = dd;
+        this.eee = dd;
     }
 
     public int getAge() {
