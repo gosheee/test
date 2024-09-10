@@ -15,7 +15,7 @@ public class code {
         this.third = dd;
     }
 
-    public int getAges() {
+    public int getAgesssd() {
         return age;
     }
 
