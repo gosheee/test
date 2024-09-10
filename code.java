@@ -7,7 +7,7 @@ public class code {
 
     private int third;
 
-    public int getDd() {
+    public int getDds() {
         return third;
     }
 
