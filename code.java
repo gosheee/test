@@ -5,14 +5,14 @@ public class code {
     private int sex;
 
 
-    private int eee;
+    private int time;
 
     public int getDd() {
-        return eee;
+        return time;
     }
 
     public void setDd(int dd) {
-        this.eee = dd;
+        this.time = dd;
 
     }
 
