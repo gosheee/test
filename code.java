@@ -3,6 +3,7 @@ public class code {
     private int age;
     private String name;
     private int sex;
+
     private int myfinal;
 
 
@@ -12,6 +13,7 @@ public class code {
 
     public void setDd(int dd) {
         this.myfinal = dd;
+
     }
 
     public int getAgesssd() {
