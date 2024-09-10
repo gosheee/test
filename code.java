@@ -3,15 +3,15 @@ public class code {
     private int age;
     private String name;
     private int sex;
-    private int third;
+    private int myfinal;
 
 
     public int getDds() {
-        return timesss;
+        return myfinal;
     }
 
     public void setDd(int dd) {
-        this.timesss = dd;
+        this.myfinal = dd;
     }
 
     public int getAgesssd() {
