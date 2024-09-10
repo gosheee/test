@@ -11,7 +11,7 @@ public class code {
     }
 
     public void setDd(int dd) {
-        this.cha = dd;
+        this.cha = cha;
     }
 
     public int getAgesssd() {
