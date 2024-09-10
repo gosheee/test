@@ -3,7 +3,13 @@ public class code {
     private int age;
     private String name;
     private int sex;
-
+    private int hh;
+    public int getHH(){
+         return hh ;  
+    }
+    public void setHH(int hh){
+        this.hh=hh;
+    }
     public int getAge() {
         return age;
     }
