@@ -3,7 +3,7 @@ public class code {
     private int age;
     private String name;
     private int sex;
-    private int timesss;
+    private int third;
 
 
     public int getDds() {
