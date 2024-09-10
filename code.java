@@ -5,8 +5,6 @@ public class code {
     private int sex;
 
 
-    private int third;
-
     public int getDds() {
         return third;
     }
