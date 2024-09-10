@@ -4,6 +4,16 @@ public class code {
     private String name;
     private int sex;
 
+    private int dd;
+
+    public int getDd() {
+        return dd;
+    }
+
+    public void setDd(int dd) {
+        this.dd = dd;
+    }
+
     public int getAge() {
         return age;
     }
